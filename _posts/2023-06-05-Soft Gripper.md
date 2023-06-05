@@ -350,7 +350,7 @@ the evolution of this parameter is relevant as it could serve as a
 control law in a more intricate system.
 
 <div style="text-align: center;">
-    <a id="fig:Circular_error"></a>
+    <a id="fig:bending_angle"></a>
     <img src="{{site.baseurl}}/assets/img/soft_robot/Bending_Angle.png" style="width: 50%; display: block; margin: 0 auto;" alt="fig:bending_angle">
 </div>
 
@@ -453,7 +453,7 @@ Fig. [11](#fig:joint).
 
 
 <div style="text-align: center;">
-    <a id="fig:probleme"></a>
+    <a id="fig:joint"></a>
     <img src="{{site.baseurl}}/assets/img/soft_robot/joint.svg" style="width: 40%; display: block; margin: 0 auto;" alt="fig:joint">
 </div>
 

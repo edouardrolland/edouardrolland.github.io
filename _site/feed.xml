@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Edouard Rolland</title>
   <subtitle>Academic and personal projects</subtitle>
-  <updated>2023-06-05T21:07:52+02:00</updated>
+  <updated>2023-06-05T21:12:30+02:00</updated>
   <author>
     <name>Edouard Rolland</name>
     <uri>http://localhost:4000/</uri>
@@ -24,7 +24,7 @@
     <link href="http://localhost:4000/posts/Soft-Gripper/" rel="alternate" type="text/html" title="Study of the curvature of a fluidic elastomer gripper" />
     <published>2023-06-05T00:00:00+02:00</published>
   
-    <updated>2023-06-05T00:00:00+02:00</updated>
+    <updated>2023-06-05T21:11:03+02:00</updated>
   
     <id>http://localhost:4000/posts/Soft-Gripper/</id>
     <content src="http://localhost:4000/posts/Soft-Gripper/" />
