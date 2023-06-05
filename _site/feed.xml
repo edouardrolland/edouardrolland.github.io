@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Edouard Rolland</title>
   <subtitle>Academic and personal projects</subtitle>
-  <updated>2023-06-05T21:01:42+02:00</updated>
+  <updated>2023-06-05T21:07:52+02:00</updated>
   <author>
     <name>Edouard Rolland</name>
     <uri>http://localhost:4000/</uri>
@@ -148,7 +148,7 @@ The following diagram summarizes the structure of my academic journey, which was
     <link href="http://localhost:4000/posts/Academic-Background/" rel="alternate" type="text/html" title="Academic Background - General Presentation" />
     <published>2023-06-05T00:00:00+02:00</published>
   
-    <updated>2023-06-05T00:00:00+02:00</updated>
+    <updated>2023-06-05T21:02:47+02:00</updated>
   
     <id>http://localhost:4000/posts/Academic-Background/</id>
     <content src="http://localhost:4000/posts/Academic-Background/" />

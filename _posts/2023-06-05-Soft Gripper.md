@@ -477,7 +477,7 @@ each finger. The resulting 3D model was then printed (Fig.
 [12](#fig:3pince)).
 
 <div style="text-align: center;">
-    <a id="#fig:probleme"></a>
+    <a id="#fig:3pince"></a>
     <img src="{{site.baseurl}}/assets/img/soft_robot/3parts.jpg" style="width: 40%; display: block; margin: 0 auto;" alt="#fig:3pince">
 </div>
 
