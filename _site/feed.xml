@@ -3,8 +3,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://localhost:4000/</id>
   <title>Edouard Rolland</title>
-  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2023-06-05T14:09:17+02:00</updated>
+  <subtitle>Academic and personal projects</subtitle>
+  <updated>2023-06-05T16:53:58+02:00</updated>
   <author>
     <name>Edouard Rolland</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,46 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Academic Background</title>
+    <link href="http://localhost:4000/posts/Academic-Background/" rel="alternate" type="text/html" title="Academic Background" />
+    <published>2023-06-05T00:00:00+02:00</published>
+  
+    <updated>2023-06-05T00:00:00+02:00</updated>
+  
+    <id>http://localhost:4000/posts/Academic-Background/</id>
+    <content src="http://localhost:4000/posts/Academic-Background/" />
+    <author>
+      <name>Edouard Rolland</name>
+    </author>
+
+  
+    
+    <category term="Academic" />
+    
+    <category term="Studies" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+The following diagram summarizes the structure of my academic journey, which was mostly completed in France.
+
+
+    </summary>
+  
+
+  </entry>
 
 </feed>
 
