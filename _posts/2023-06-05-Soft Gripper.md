@@ -306,13 +306,13 @@ performed for each volume value. Fig.
 
 
 <div style="text-align: center;">
-    <a id="#fig:Circular_fitting"></a>
+    <a id="fig:Circular_fitting"></a>
     <img src="{{site.baseurl}}/assets/img/soft_robot/circular_fitting.png" style="width: 50%; display: block; margin: 0 auto;" alt="Circular Fitting">
 </div>
 
 <div style="text-align: center;">
 Fig.5 Circular Fitting
-</div>
+</div>²
 
 As the quantity of injected air increases, fitting a circle to the
 curvature of the gripper becomes more difficult. This is supported by
@@ -328,8 +328,8 @@ hypothesis stated in section
 The hypothesis part is not validated.
 
 <div style="text-align: center;">
-    <a id="#fig:Circular_error"></a>
-    <img src="{{site.baseurl}}/assets/img/soft_robot/Residual_Error_display.svg" style="width: 75%; display: block; margin: 0 auto;" alt="#fig:Circular_error">
+    <a id="fig:Circular_error"></a>
+    <img src="{{site.baseurl}}/assets/img/soft_robot/Residual_Error_display.svg" style="width: 75%; display: block; margin: 0 auto;" alt="fig:Circular_error">
 </div>
 
 <div style="text-align: center;">
@@ -350,8 +350,8 @@ the evolution of this parameter is relevant as it could serve as a
 control law in a more intricate system.
 
 <div style="text-align: center;">
-    <a id="#fig:Circular_error"></a>
-    <img src="{{site.baseurl}}/assets/img/soft_robot/Bending_Angle.png" style="width: 50%; display: block; margin: 0 auto;" alt="#fig:bending_angle">
+    <a id="fig:Circular_error"></a>
+    <img src="{{site.baseurl}}/assets/img/soft_robot/Bending_Angle.png" style="width: 50%; display: block; margin: 0 auto;" alt="fig:bending_angle">
 </div>
 
 <div style="text-align: center;">
@@ -366,8 +366,8 @@ graph is presented in Figure
 [8](#fig:bending_linear).
 
 <div style="text-align: center;">
-    <a id="#fig:bending_linear"></a>
-    <img src="{{site.baseurl}}/assets/img/soft_robot/Circular_Regression_with_3_points.svg" style="width: 65%; display: block; margin: 0 auto;" alt="#fig:bending_linear">
+    <a id="fig:bending_linear"></a>
+    <img src="{{site.baseurl}}/assets/img/soft_robot/Circular_Regression_with_3_points.svg" style="width: 65%; display: block; margin: 0 auto;" alt="fig:bending_linear">
 </div>
 
 <div style="text-align: center;">
@@ -400,8 +400,8 @@ a rough surface like sandpaper to ensure better adhesion, similar to the
 work done by {% cite geckos %}.
 
 <div style="text-align: center;">
-    <a id="#sousou"></a>
-    <img src="{{site.baseurl}}/assets/img/soft_robot/objects_tests.png" style="width: 50%; display: block; margin: 0 auto;" alt="#sousou">
+    <a id="sousou"></a>
+    <img src="{{site.baseurl}}/assets/img/soft_robot/objects_tests.png" style="width: 50%; display: block; margin: 0 auto;" alt="sousou">
 </div>
 
 <div style="text-align: center;">
@@ -424,8 +424,8 @@ but the physical properties of the silicone hindered the adhesion of the
 glue, rendering this solution ineffective.
 
 <div style="text-align: center;">
-    <a id="#fig:probleme"></a>
-    <img src="{{site.baseurl}}/assets/img/soft_robot/probleme_1.jpg" style="width: 50%; display: block; margin: 0 auto;" alt="#fig:probleme">
+    <a id="fig:probleme"></a>
+    <img src="{{site.baseurl}}/assets/img/soft_robot/probleme_1.jpg" style="width: 50%; display: block; margin: 0 auto;" alt="fig:probleme">
 </div>
 
 <div style="text-align: center;">
@@ -453,8 +453,8 @@ Fig. [11](#fig:joint).
 
 
 <div style="text-align: center;">
-    <a id="#fig:probleme"></a>
-    <img src="{{site.baseurl}}/assets/img/soft_robot/joint.svg" style="width: 40%; display: block; margin: 0 auto;" alt="#fig:joint">
+    <a id="fig:probleme"></a>
+    <img src="{{site.baseurl}}/assets/img/soft_robot/joint.svg" style="width: 40%; display: block; margin: 0 auto;" alt="fig:joint">
 </div>
 
 <div style="text-align: center;">
@@ -477,8 +477,8 @@ each finger. The resulting 3D model was then printed (Fig.
 [12](#fig:3pince)).
 
 <div style="text-align: center;">
-    <a id="#fig:3pince"></a>
-    <img src="{{site.baseurl}}/assets/img/soft_robot/3parts.jpg" style="width: 40%; display: block; margin: 0 auto;" alt="#fig:3pince">
+    <a id="fig:3pince"></a>
+    <img src="{{site.baseurl}}/assets/img/soft_robot/3parts.jpg" style="width: 40%; display: block; margin: 0 auto;" alt="fig:3pince">
 </div>
 
 <div style="text-align: center;">
