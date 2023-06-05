@@ -18,15 +18,15 @@ timezone: Europe/Paris
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Edouard Rolland | Home Page # the main title
+title: Edouard Rolland # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Academic and personal projects # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Academic and personal projects
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "https://edouardrolland.github.io"
 
 github:
   username: edouardrolland # change to your github username
@@ -80,7 +80,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Roland_Garros_1910.jpg/800px-Roland_Garros_1910.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
