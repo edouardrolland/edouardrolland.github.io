@@ -1,7 +1,7 @@
 ---
-title: Academic Background
+title: Academic Background - General Presentation
 date: 2023-06-05
-categories: [Academic, Studies]
+categories: [Academic training]
 tags: [Academic, Studies]     # TAG names should always be lowercase
 comments: false
 ---
