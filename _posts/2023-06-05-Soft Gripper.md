@@ -508,7 +508,7 @@ demonstrating its ability to grasp various objects of different shapes
 and masses. Finally, design and manufacturing improvements were proposed
 for the gripper.
 
-{% bibliography %}
+{% bibliography --cited %}
 
 
 

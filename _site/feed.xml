@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Edouard Rolland</title>
   <subtitle>Academic and personal projects</subtitle>
-  <updated>2023-06-05T21:12:30+02:00</updated>
+  <updated>2023-06-06T15:56:33+02:00</updated>
   <author>
     <name>Edouard Rolland</name>
     <uri>http://localhost:4000/</uri>
@@ -20,11 +20,57 @@
 
   
   <entry>
+    <title>MSc Thesis - Presentation</title>
+    <link href="http://localhost:4000/posts/MSc-Thesis-Presentation/" rel="alternate" type="text/html" title="MSc Thesis - Presentation" />
+    <published>2023-06-06T00:00:00+02:00</published>
+  
+    <updated>2023-06-06T00:00:00+02:00</updated>
+  
+    <id>http://localhost:4000/posts/MSc-Thesis-Presentation/</id>
+    <content src="http://localhost:4000/posts/MSc-Thesis-Presentation/" />
+    <author>
+      <name>Edouard Rolland</name>
+    </author>
+
+  
+    
+    <category term="MSc Thesis" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+This article details the presentation and preliminary studies leading up to the completion of my Master’s thesis conducted at the University of Bristol.
+The University of Bristol has been involved in past campaigns collecting volcanic ashes using drones, as showcased in the following video.
+
+
+  
+
+
+Volcanic ash collection thanks to a fixed wing drone
+
+
+All the different campaigns were conducte...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
     <title>Study of the curvature of a fluidic elastomer gripper</title>
     <link href="http://localhost:4000/posts/Soft-Gripper/" rel="alternate" type="text/html" title="Study of the curvature of a fluidic elastomer gripper" />
     <published>2023-06-05T00:00:00+02:00</published>
   
-    <updated>2023-06-05T21:11:03+02:00</updated>
+    <updated>2023-06-05T21:12:38+02:00</updated>
   
     <id>http://localhost:4000/posts/Soft-Gripper/</id>
     <content src="http://localhost:4000/posts/Soft-Gripper/" />
@@ -174,43 +220,6 @@ The following diagram summarizes the structure of my academic journey, which was
 
 The following diagram summarizes the structure of my academic journey, which was mostly completed in France.
 
-
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Classe préparatoire aux grandes écoles - General presentation</title>
-    <link href="http://localhost:4000/posts/CPGE-PSI/" rel="alternate" type="text/html" title="Classe préparatoire aux grandes écoles - General presentation" />
-    <published>2023-02-05T00:00:00+02:00</published>
-  
-    <updated>2023-02-05T00:00:00+02:00</updated>
-  
-    <id>http://localhost:4000/posts/CPGE-PSI/</id>
-    <content src="http://localhost:4000/posts/CPGE-PSI/" />
-    <author>
-      <name>Edouard Rolland</name>
-    </author>
-
-  
-    
-    <category term="Academic training" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-
-The following diagram summarizes the structure of my academic journey, which was mostly completed in France.
 
     </summary>
   
